@@ -35,15 +35,15 @@ body {
 }
 
 #rock {
-  background-image: url("./images/rock.jfif");
+  background-image: url("./rock.jfif");
 }
 
 #paper {
-  background-image: url("./images/paper.jfif");
+  background-image: url("./paper.jfif");
 }
 
 #scissors {
-  background-image: url("./images/scissors.jfif");
+  background-image: url("./scissors.jfif");
 }
 
 .reply p {
